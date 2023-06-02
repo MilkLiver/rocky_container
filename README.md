@@ -26,3 +26,11 @@ like this
 ``````
 docker run --name rdpssh -e "username=admin" -e "password=Admin12345" -e "mod=yes" -idt -p13389:3389 -p10022:22 
 ``````
+
+
+
+### image
+
+docker.io/milkliver/rocky-container:latest
+
+https://hub.docker.com/repository/docker/milkliver/rocky-container/general
